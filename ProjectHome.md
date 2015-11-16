@@ -1,0 +1,1 @@
+This is the Open1to1 project. We're working to develop a linux image for schools to use with netbooks and laptops all over the world. One to one computing is here and we're helping schools get the most out of their 1 to1 deployment.  We also are working on development of custom imaging solutions to make deployment of netbooks/laptops fast and easy for anyone.
